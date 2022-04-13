@@ -1,5 +1,44 @@
 {
   "/api/": "/",
   "/blog/:resource/:id/show": "/:resource/:id",
-  "/blog/:category": "/posts?category=:category"
+  "/blog/:category": "/posts?category=:category",
+
+  "/topology": "/topologies",
+  "/topology/:id": "/topologies/:id?_embed=nodes&_embed=links",
+  "/node": "/nodes",
+  "/node/:id": "/nodes/:id",
+  "/link": "/links",
+  "/link/:id": "/links/:id",
+
+  "/operation/menu": "/menus",
+  "/operation/menu/:id": "/menus?menuSid=:id&_one=true",
+  "/operation/menu?:query": "/menus?:query",
+
+  "/operation/user": "/users",
+  "/operation/user/:id": "/users?userSid=:id&_one",
+  "/operation/user?:query": "/users?:query",
+
+  "/code": "/codes",
+  "/code/:id": "/codes?cdId=:id&_one=true",
+  "/code?:query": "/codes?:query",
+
+  "/usrgrp": "/usrgrps",
+  "/usrgrp/:id": "/usrgrps?usrgrpSid=:id&_one=true",
+  "/usrgrp?:query": "/usrgrps?:query",
+
+  "/api/history": "/api-histories",
+  "/api/history/:id": "/api-histories?transacId=:id&_one=true",
+  "/api/history?:query": "/api-histories?:query",
+
+  "/channel": "/channels",
+  "/channel/:id": "/channels?shSvcId=:id&_one=true",
+  "/channel?:qeury": "/channels?:query",
+
+  "/equipment": "/equipments",
+  "/equipment/:id": "/equipments?equipSid=:id&_one=true",
+  "/equipment?:query": "/equipments?:query",
+
+  "/pp": "/pps",
+  "/pp/:id": "/pps?ppSid=:id&_one=true",
+  "/pp?:query": "/pps?:query"
 }

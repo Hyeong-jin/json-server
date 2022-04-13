@@ -1,0 +1,966 @@
+{
+  "nodes": [
+    {
+      "id": "79DE087B-1FF8-4AE4-8B75-D81446D20D44",
+      "name": "Node-QXOCJKLP",
+      "color": "#8A1EFF",
+      "position": [
+        484.9356,
+        17.1728,
+        398.7292
+      ],
+      "rotation": [
+        0.4482,
+        1.3281,
+        1.0699
+      ],
+      "size": [
+        4.2088,
+        8.5307,
+        6.908
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "7C542702-5657-4C1D-AA84-AF5906D1C12E",
+      "name": "Node-SWMEKODJ",
+      "color": "#31540F",
+      "position": [
+        824.14,
+        674.9164,
+        600.6108
+      ],
+      "rotation": [
+        1.1459,
+        0.3961,
+        1.2064
+      ],
+      "size": [
+        8.7146,
+        1.9774,
+        8.7856
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "3D7CF82B-A67D-494C-BDCB-D1E367A96BFB",
+      "name": "Node-QCZBOWJL",
+      "color": "#66DCC5",
+      "position": [
+        403.319,
+        344.0137,
+        577.6769
+      ],
+      "rotation": [
+        0.8057,
+        1.4455,
+        1.1571
+      ],
+      "size": [
+        3.3161,
+        9.2988,
+        8.605
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "99F7F976-F55A-46BC-B95E-4ABF8675F944",
+      "name": "Node-NWDJRIIL",
+      "color": "#2119CA",
+      "position": [
+        594.8807,
+        409.5507,
+        31.5252
+      ],
+      "rotation": [
+        1.3094,
+        0.8625,
+        1.3147
+      ],
+      "size": [
+        9.527,
+        8.504,
+        0.9895
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "8BA2A997-FD4E-4DD7-B46D-B88BDF1CA1BF",
+      "name": "Node-VIGJTPTH",
+      "color": "#19FDAE",
+      "position": [
+        790.7514,
+        823.7394,
+        384.4385
+      ],
+      "rotation": [
+        0.7875,
+        0.523,
+        0.7382
+      ],
+      "size": [
+        4.6906,
+        1.4647,
+        8.673
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "FAE723F3-EE72-4662-BA6C-8C1D13F698F1",
+      "name": "Node-BMJXIXOB",
+      "color": "#6085F6",
+      "position": [
+        140.4938,
+        211.544,
+        470.315
+      ],
+      "rotation": [
+        0.176,
+        0.4865,
+        0.3979
+      ],
+      "size": [
+        3.884,
+        0.1361,
+        0.2038
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "80BBB05E-DBE8-4C36-B0B8-21F3FF4FB401",
+      "name": "Node-NKZWBDMI",
+      "color": "#479169",
+      "position": [
+        847.1785,
+        142.9207,
+        920.9481
+      ],
+      "rotation": [
+        0.1408,
+        1.2057,
+        1.0849
+      ],
+      "size": [
+        6.9807,
+        2.1652,
+        0.3701
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "3098FB19-1BEB-46A1-9BFA-E93D3945E286",
+      "name": "Node-EBPBOOMA",
+      "color": "#2C0E9E",
+      "position": [
+        672.3802,
+        308.5896,
+        210.2911
+      ],
+      "rotation": [
+        1.282,
+        0.5844,
+        0.7597
+      ],
+      "size": [
+        6.981,
+        4.31,
+        7.1394
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "489D3036-8FC0-424F-84FC-BBEABB4F7016",
+      "name": "Node-XLSQNGCB",
+      "color": "#2969DD",
+      "position": [
+        812.8954,
+        815.6639,
+        168.0017
+      ],
+      "rotation": [
+        1.2424,
+        1.5439,
+        1.4164
+      ],
+      "size": [
+        3.5066,
+        6.2281,
+        0.4775
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "7A26D8DE-525D-4B88-B681-0DB4A0586769",
+      "name": "Node-QOYSWSHO",
+      "color": "#078B76",
+      "position": [
+        883.8266,
+        717.1434,
+        109.8509
+      ],
+      "rotation": [
+        0.5138,
+        0.0817,
+        1.1658
+      ],
+      "size": [
+        8.4205,
+        5.9807,
+        1.9357
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "0B8A7A83-EB55-4FA6-99E4-4CE34B5F5C8F",
+      "name": "Node-ZMAYCEFQ",
+      "color": "#7EF3DF",
+      "position": [
+        55.7884,
+        749.8144,
+        482.737
+      ],
+      "rotation": [
+        0.4935,
+        1.561,
+        1.2995
+      ],
+      "size": [
+        1.9664,
+        1.0363,
+        5.0468
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "C6165183-E4DD-4431-9978-A98207122D69",
+      "name": "Node-FZSYZNVD",
+      "color": "#8A4359",
+      "position": [
+        70.392,
+        218.6257,
+        835.3204
+      ],
+      "rotation": [
+        1.3165,
+        0.3446,
+        0.8843
+      ],
+      "size": [
+        8.6853,
+        1.9397,
+        4.2162
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "64CDAC5A-FCDC-4018-9174-78C43AD2BF1D",
+      "name": "Node-YMVNPNVO",
+      "color": "#29AA68",
+      "position": [
+        601.1879,
+        804.216,
+        695.75
+      ],
+      "rotation": [
+        0.0864,
+        0.0603,
+        1.4908
+      ],
+      "size": [
+        3.4474,
+        5.1379,
+        4.153
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "112A2BA9-6E69-4C64-88B4-44C5929685CE",
+      "name": "Node-GENFMAKK",
+      "color": "#BCB067",
+      "position": [
+        364.8032,
+        203.0585,
+        561.388
+      ],
+      "rotation": [
+        0.9235,
+        1.4478,
+        0.2616
+      ],
+      "size": [
+        9.7252,
+        1.3408,
+        9.6453
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "63694AA2-787B-4CE3-B8B0-ADB01910CE4C",
+      "name": "Node-YHMRIQCK",
+      "color": "#D623E3",
+      "position": [
+        269.6632,
+        36.4458,
+        575.2052
+      ],
+      "rotation": [
+        1.4192,
+        0.2732,
+        0.5399
+      ],
+      "size": [
+        0.4005,
+        9.869,
+        0.6409
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "46439979-E468-45C5-9610-757FF257BA6E",
+      "name": "Node-DCQRCOGC",
+      "color": "#B8C990",
+      "position": [
+        184.7334,
+        939.0071,
+        171.4246
+      ],
+      "rotation": [
+        0.8392,
+        1.239,
+        0.6763
+      ],
+      "size": [
+        1.5302,
+        6.7564,
+        6.4842
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "A2E4B807-257D-43B8-A312-18DF08EAD067",
+      "name": "Node-CYVNTUBF",
+      "color": "#4E6AA4",
+      "position": [
+        517.8834,
+        0,
+        431.4768
+      ],
+      "rotation": [
+        0,
+        0.1309,
+        0
+      ],
+      "size": [
+        0.5015,
+        5.5944,
+        1.7714
+      ],
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    }
+  ],
+  "links": [
+    {
+      "id": "FB997899-523C-4450-884A-712DD1DE45F4",
+      "name": "Link-CSQMTBUL",
+      "color": "#AB30CA",
+      "width": 4.6104,
+      "paths": [
+        483.6461,
+        758.8911,
+        332.2637,
+        402.2882,
+        802.2408,
+        33.9435
+      ],
+      "from": "8BA2A997-FD4E-4DD7-B46D-B88BDF1CA1BF",
+      "to": "112A2BA9-6E69-4C64-88B4-44C5929685CE",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "E5C9863B-4B0D-4198-A06F-61FF9DE277F8",
+      "name": "Link-BZDMQUHW",
+      "color": "#B40300",
+      "width": 2.3249,
+      "paths": [
+        348.1611,
+        890.3372,
+        429.9456,
+        52.0344,
+        231.8641,
+        529.172
+      ],
+      "from": "112A2BA9-6E69-4C64-88B4-44C5929685CE",
+      "to": "3D7CF82B-A67D-494C-BDCB-D1E367A96BFB",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "18661B78-2516-4ACE-BE41-E043CAD83B74",
+      "name": "Link-SGXHIDBW",
+      "color": "#DE300C",
+      "width": 1.682,
+      "paths": [
+        751.0874,
+        397.8505,
+        570.4681,
+        279.561,
+        456.6052,
+        65.263
+      ],
+      "from": "7A26D8DE-525D-4B88-B681-0DB4A0586769",
+      "to": "C6165183-E4DD-4431-9978-A98207122D69",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "42AE6091-CC6B-49F5-809D-0A48F0E1775E",
+      "name": "Link-NLRXFZMH",
+      "color": "#D5032E",
+      "width": 2.9223,
+      "paths": [
+        801.598,
+        425.2472,
+        259.4416,
+        168.4916,
+        58.8316,
+        976.7678
+      ],
+      "from": "99F7F976-F55A-46BC-B95E-4ABF8675F944",
+      "to": "64CDAC5A-FCDC-4018-9174-78C43AD2BF1D",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "BC6F83CC-EE02-4DA4-9063-BE1A4CE782CA",
+      "name": "Link-OTFCRWWF",
+      "color": "#33EDCC",
+      "width": 4.8157,
+      "paths": [
+        782.2697,
+        709.0885,
+        966.636,
+        736.864,
+        459.8666,
+        801.0657
+      ],
+      "from": "63694AA2-787B-4CE3-B8B0-ADB01910CE4C",
+      "to": "C6165183-E4DD-4431-9978-A98207122D69",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "22F67D75-B394-4DA2-AEF1-C42A5345D746",
+      "name": "Link-RPUVQUUK",
+      "color": "#AE0D78",
+      "width": 1.6849,
+      "paths": [
+        188.2794,
+        461.5847,
+        657.1418,
+        115.6964,
+        437.221,
+        263.8963
+      ],
+      "from": "C6165183-E4DD-4431-9978-A98207122D69",
+      "to": "A2E4B807-257D-43B8-A312-18DF08EAD067",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "9FC82D39-570D-431A-A93D-51D01BE559E5",
+      "name": "Link-BVFLXWJV",
+      "color": "#AA59A1",
+      "width": 1.8658,
+      "paths": [
+        832.4768,
+        567.1957,
+        837.0695,
+        110.3051,
+        27.6205,
+        226.7387
+      ],
+      "from": "C6165183-E4DD-4431-9978-A98207122D69",
+      "to": "112A2BA9-6E69-4C64-88B4-44C5929685CE",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "EB0217F3-DEAF-424C-A299-76604859793E",
+      "name": "Link-HYICKBEN",
+      "color": "#0419FA",
+      "width": 1.9434,
+      "paths": [
+        358.0249,
+        765.6295,
+        748.2861,
+        933.506,
+        482.0607,
+        58.0132
+      ],
+      "from": "80BBB05E-DBE8-4C36-B0B8-21F3FF4FB401",
+      "to": "3098FB19-1BEB-46A1-9BFA-E93D3945E286",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "9B417BCE-E65E-4F7D-9D2D-B0E8B2F766B4",
+      "name": "Link-LQVHMAJD",
+      "color": "#3A9E0F",
+      "width": 1.8017,
+      "paths": [
+        412.8542,
+        290.7441,
+        722.5218,
+        902.5428,
+        815.8341,
+        923.5576
+      ],
+      "from": "64CDAC5A-FCDC-4018-9174-78C43AD2BF1D",
+      "to": "3098FB19-1BEB-46A1-9BFA-E93D3945E286",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "9794667E-F423-41FE-973C-B809138A2150",
+      "name": "Link-AUNHOVQZ",
+      "color": "#486F21",
+      "width": 1.5747,
+      "paths": [
+        646.6443,
+        106.6705,
+        684.2282,
+        418.3761,
+        869.7964,
+        722.7016
+      ],
+      "from": "489D3036-8FC0-424F-84FC-BBEABB4F7016",
+      "to": "3098FB19-1BEB-46A1-9BFA-E93D3945E286",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "1B7155CB-C048-42A4-96DE-A99CA217383F",
+      "name": "Link-CMERYPWS",
+      "color": "#43A9E7",
+      "width": 0.4294,
+      "paths": [
+        80.8364,
+        986.2883,
+        674.2099,
+        511.7918,
+        9.7732,
+        415.6445
+      ],
+      "from": "3D7CF82B-A67D-494C-BDCB-D1E367A96BFB",
+      "to": "7C542702-5657-4C1D-AA84-AF5906D1C12E",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "0500756D-666E-4A28-BDDB-3C44DD24A689",
+      "name": "Link-NPVZPCNW",
+      "color": "#D52F60",
+      "width": 0.661,
+      "paths": [
+        772.1492,
+        850.9118,
+        146.5379,
+        479.0284,
+        559.6733,
+        588.2317
+      ],
+      "from": "489D3036-8FC0-424F-84FC-BBEABB4F7016",
+      "to": "0B8A7A83-EB55-4FA6-99E4-4CE34B5F5C8F",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "ACFA8C24-25C9-4158-AAF7-1C8B7AAD4043",
+      "name": "Link-PFFRUUUK",
+      "color": "#8827BB",
+      "width": 4.8593,
+      "paths": [
+        88.1204,
+        552.2613,
+        498.8434,
+        768.5337,
+        246.1109,
+        549.0166
+      ],
+      "from": "8BA2A997-FD4E-4DD7-B46D-B88BDF1CA1BF",
+      "to": "8BA2A997-FD4E-4DD7-B46D-B88BDF1CA1BF",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "9B9AA969-C6B7-4BE2-9C24-380562927257",
+      "name": "Link-NSWZOWQV",
+      "color": "#AD6F36",
+      "width": 2.8261,
+      "paths": [
+        979.6587,
+        426.1292,
+        925.7233,
+        900.5733,
+        634.4631,
+        985.0436
+      ],
+      "from": "7C542702-5657-4C1D-AA84-AF5906D1C12E",
+      "to": "64CDAC5A-FCDC-4018-9174-78C43AD2BF1D",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "95D9931F-372D-4D9E-92AC-DE382FFDD3E0",
+      "name": "Link-OMPDPHAK",
+      "color": "#123BAA",
+      "width": 4.8589,
+      "paths": [
+        683.8598,
+        710.9982,
+        38.9361,
+        800.0544,
+        989.0616,
+        6.9444
+      ],
+      "from": "112A2BA9-6E69-4C64-88B4-44C5929685CE",
+      "to": "7A26D8DE-525D-4B88-B681-0DB4A0586769",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "51052B6D-112A-475A-B21E-E00E64A64D5F",
+      "name": "Link-BOWBYSXH",
+      "color": "#CF5870",
+      "width": 1.8838,
+      "paths": [
+        754.0239,
+        907.1927,
+        85.0131,
+        963.8922,
+        653.6737,
+        498.8698
+      ],
+      "from": "46439979-E468-45C5-9610-757FF257BA6E",
+      "to": "112A2BA9-6E69-4C64-88B4-44C5929685CE",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "EE747BD4-E5B0-44DE-A345-D99E5013442B",
+      "name": "Link-TJGPMEQU",
+      "color": "#DAF6C3",
+      "width": 4.5308,
+      "paths": [
+        685.062,
+        179.3387,
+        919.8484,
+        442.2821,
+        207.2361,
+        196.4172
+      ],
+      "from": "79DE087B-1FF8-4AE4-8B75-D81446D20D44",
+      "to": "8BA2A997-FD4E-4DD7-B46D-B88BDF1CA1BF",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "EA2C3996-D05E-4237-8ADC-BF48500E18B9",
+      "name": "Link-TKOPYGZU",
+      "color": "#0A2EE1",
+      "width": 2.9923,
+      "paths": [
+        711.2397,
+        931.0586,
+        305.3762,
+        332.7641,
+        762.371,
+        633.3864
+      ],
+      "from": "3098FB19-1BEB-46A1-9BFA-E93D3945E286",
+      "to": "7C542702-5657-4C1D-AA84-AF5906D1C12E",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "EFF56B6A-5FE2-4D12-B79E-075EA0E78545",
+      "name": "Link-FMGBZGTD",
+      "color": "#402465",
+      "width": 4.1168,
+      "paths": [
+        305.5455,
+        197.5614,
+        259.4338,
+        429.17,
+        198.4729,
+        82.1877
+      ],
+      "from": "8BA2A997-FD4E-4DD7-B46D-B88BDF1CA1BF",
+      "to": "489D3036-8FC0-424F-84FC-BBEABB4F7016",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "136BBDDA-53F4-42AB-A9CD-9105EEE2D802",
+      "name": "Link-EJYGDBDV",
+      "color": "#206BBD",
+      "width": 3.8061,
+      "paths": [
+        697.5971,
+        64.3712,
+        59.9506,
+        247.4798,
+        740.064,
+        844.0111
+      ],
+      "from": "99F7F976-F55A-46BC-B95E-4ABF8675F944",
+      "to": "112A2BA9-6E69-4C64-88B4-44C5929685CE",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    },
+    {
+      "id": "92499F43-C3CB-495A-B14E-0C775381E455",
+      "name": "Link-VWSFEIKM",
+      "color": "#7762ED",
+      "width": 0.4327,
+      "paths": [
+        995.9729,
+        0,
+        837.4739,
+        992.0297,
+        0,
+        470.9187
+      ],
+      "from": "99F7F976-F55A-46BC-B95E-4ABF8675F944",
+      "to": "112A2BA9-6E69-4C64-88B4-44C5929685CE",
+      "topologyId": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "userData": {
+        "String": "updated",
+        "Number": 0,
+        "Boolean": false,
+        "Null": null
+      }
+    }
+  ],
+  "topologies": [
+    {
+      "id": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486503",
+      "name": "Topology-ANLCPEFA"
+    },
+    {
+      "id": "79E5ED4C-F0B6-4741-963A-7133F36E039E",
+      "name": "Topology-SAZMIKUR"
+    },
+    {
+      "id": "A8FAC693-C8D4-478C-A467-897F5D452AC3",
+      "name": "Topology-LVCXDFVI"
+    },
+    {
+      "id": "E9CBB8A4-BF3C-4B04-AB1E-2D1984486505",
+      "name": "Topology-ANLCPEFA555555555"
+    }
+  ]
+}

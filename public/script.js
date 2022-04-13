@@ -4,7 +4,7 @@ function ResourceItem({ name, length }) {
       <a href="${name}">/${name}</a>
       <sup>${length ? `${length}x` : 'object'}</sup>
     </li>
-  `
+  `;
 }
 
 function ResourceList({ db }) {
@@ -19,11 +19,11 @@ function ResourceList({ db }) {
         )
         .join('')}
     </ul>
-  `
+  `;
 }
 
 function NoResources() {
-  return `<p>No resources found</p>`
+  return `<p>No resources found</p>`;
 }
 
 function ResourcesBlock({ db }) {
@@ -32,7 +32,7 @@ function ResourcesBlock({ db }) {
       <h1>Resources</h1>
       ${Object.keys(db).length ? ResourceList({ db }) : NoResources()}
     </div>
-  `
+  `;
 }
 
 window
@@ -41,10 +41,10 @@ window
   .then(
     (db) =>
       (document.getElementById('resources').innerHTML = ResourcesBlock({ db }))
-  )
+  );
 
 function CustomRoutesBlock({ customRoutes }) {
-  const rules = Object.keys(customRoutes)
+  const rules = Object.keys(customRoutes);
   if (rules.length) {
     return `
       <div>
@@ -61,7 +61,7 @@ function CustomRoutesBlock({ customRoutes }) {
             .join('')}
         </table>
       </div>
-    `
+    `;
   }
 }
 
@@ -73,4 +73,4 @@ window
       (document.getElementById('custom-routes').innerHTML = CustomRoutesBlock({
         customRoutes,
       }))
-  )
+  );
